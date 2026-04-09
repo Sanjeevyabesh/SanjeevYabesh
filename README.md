@@ -1,4 +1,5 @@
-![banner](https://raw.githubusercontent.com/Sanjeevyabesh/Sanjeevyabesh/main/banner.png)
+![banner](banner.png)
+
 # SANJEEV YABESH KUMAR C
 
 ### AI & Machine Learning Engineer • Computer Vision • LLM Systems
