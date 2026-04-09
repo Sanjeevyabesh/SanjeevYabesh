@@ -1,4 +1,4 @@
-![GIT BANNER](https://raw.github.com/Sanjeevyabesh/SanjeevYabesh/main/GIT BANNER.png)
+![banner](https://raw.github.com/Sanjeevyabesh/SanjeevYabesh/main/banner.png)
 
 # SANJEEV YABESH KUMAR C
 
