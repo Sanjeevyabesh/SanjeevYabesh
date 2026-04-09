@@ -14,10 +14,10 @@
 
 ---
 
-## 🧑‍💻 whoami
+## 🧑‍💻 Who am I
 
 ```json
-sanjeev = {
+Sanjeev = {
   "role": "AI & Machine Learning Engineer",
   "education": "M.Sc. AI & ML, Coimbatore Institute of Technology (Semester 8)",
   "focus": ["LLM Alignment", "ML", "NLP", "Agentic AI"],
